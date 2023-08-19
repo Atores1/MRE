@@ -1,0 +1,91 @@
+$date
+  Sat Aug 19 14:00:19 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module bookutility $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module dff_tb $end
+$var reg 1 ! tq $end
+$var reg 1 " td $end
+$var reg 1 # tclk $end
+$var reg 1 $ clockenable $end
+$scope module uut $end
+$var reg 1 % clk $end
+$var reg 1 & d $end
+$var reg 1 ' q $end
+$var reg 1 ( delay $end
+$var reg 1 ) delay1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+1$
+0%
+0&
+0'
+0(
+0)
+#1000000
+#5000000
+1#
+1%
+#10000000
+0#
+0%
+#11000000
+1"
+1&
+#15000000
+1!
+1#
+1%
+1'
+#20000000
+0#
+0%
+#21000000
+#25000000
+1#
+1%
+#30000000
+0#
+0%
+#31000000
+0"
+0&
+#35000000
+0!
+1#
+1%
+0'
+#40000000
+0#
+0%
+#41000000
+#45000000
+1#
+1%
+#50000000
+0#
+0%
+#51000000
+0$
+#55000000
+1#
+1%

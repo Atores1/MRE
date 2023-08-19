@@ -1,0 +1,55 @@
+$date
+  Mon Aug 14 09:10:31 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module test $end
+$var reg 1 ! ta1 $end
+$var reg 1 " ta2 $end
+$var reg 1 # tb1 $end
+$var reg 1 $ tb2 $end
+$var reg 1 % tgout $end
+$scope module uut $end
+$var reg 1 & a1 $end
+$var reg 1 ' a2 $end
+$var reg 1 ( b1 $end
+$var reg 1 ) b2 $end
+$var reg 1 * gout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+U"
+0#
+U$
+1%
+1&
+U'
+0(
+U)
+1*
+#10000000
+0!
+0%
+0&
+0*
+#20000000
+1!
+1#
+1%
+1&
+1(
+1*
+#30000000
+0!
+0&
+#40000000

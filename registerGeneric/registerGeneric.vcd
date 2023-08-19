@@ -1,0 +1,43 @@
+$date
+  Thu Aug 17 10:27:03 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module bookutility $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module registergeneric_tb $end
+$var reg 4 ! tq[3:0] $end
+$var reg 4 " td[3:0] $end
+$var reg 1 # tload $end
+$var reg 1 $ tclk $end
+$var reg 1 % clockenable $end
+$scope module uut $end
+$var reg 1 & clk $end
+$var reg 1 ' load $end
+$var reg 4 ( d[3:0] $end
+$var reg 4 ) q[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+bUUUU !
+bUUUU "
+U#
+0$
+1%
+0&
+U'
+bUUUU (
+bUUUU )
